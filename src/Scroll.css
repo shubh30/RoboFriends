@@ -1,0 +1,11 @@
+#cont-1 {
+  overflow: hidden;
+}
+
+#cont-2 {
+  height: 800px;
+  border: 1px solid black;
+  overflow: auto;
+  padding-right: 20px;
+  
+}
