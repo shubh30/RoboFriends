@@ -7,5 +7,8 @@
   border: 1px solid black;
   overflow: auto;
   padding-right: 20px;
-  
+}
+
+.example::-webkit-scrollbar {
+  display: none;
 }
